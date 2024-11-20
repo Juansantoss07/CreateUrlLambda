@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="environmentGroups">
+            <list>
+              <environmentGroupState>
+                <option name="environments">
+                  <list>
+                    <environmentState>
+                      <option name="name" value="New Environment" />
+                    </environmentState>
+                  </list>
+                </option>
+                <option name="name" value="Default" />
+              </environmentGroupState>
+            </list>
+          </option>
+          <option name="folders">
+            <list>
+              <folderState>
+                <option name="id" value="e218ff42-d69b-4ef5-9510-c96184959c37" />
+                <option name="name" value="Testes" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="id" value="6d7a4904-1b62-47a8-9aad-f5e6d50522b1" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="RequestPOST" />
+                      <option name="sortWeight" value="1000000" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="1000000" />
+              </folderState>
+            </list>
+          </option>
+          <option name="id" value="adbc547b-ad6b-4fb7-b2f8-22083a22e1e4" />
+          <option name="name" value="CreateUrlLambda" />
+          <option name="selectedEnvironmentIds">
+            <map>
+              <entry key="default" />
+            </map>
+          </option>
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="autoSync" value="true" />
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="6425c88d-5150-4d44-bc1e-5c5af72c232e" />
+    <option name="version" value="4" />
+  </component>
+</project>

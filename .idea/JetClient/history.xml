@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066491151" />
+          <option name="id" value="369d5638-a592-49ba-8cc3-d1baa9ae6e0f" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="bnVsbA==" />
+              <option name="bodyString" value="null" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:34:51 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="1d12b84b-5c04-4b87-80b3-df69ba363f52" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3cbb-1c13892f556a5f40190aab3f;Parent=4caaeb7cc9f0aeaa;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="369d5638-a592-49ba-8cc3-d1baa9ae6e0f" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="null" />
+              <option name="size" value="4" />
+              <option name="time" value="149" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066491485" />
+          <option name="id" value="ce0d5443-f804-4828-8f1f-a84673c98373" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="bnVsbA==" />
+              <option name="bodyString" value="null" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:34:51 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="3d0b258c-542b-4c3e-959e-accac205dd13" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3cbb-29551a5c0a80e41a551a19ce;Parent=5ab81556220c3b93;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce0d5443-f804-4828-8f1f-a84673c98373" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="null" />
+              <option name="size" value="4" />
+              <option name="time" value="148" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066491678" />
+          <option name="id" value="93e082d8-4279-42cc-8f9a-6705647b5c6a" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="bnVsbA==" />
+              <option name="bodyString" value="null" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:34:51 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="d19ed285-f1ee-4443-a77f-86fb314a6f70" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3cbb-5d754a6e3b24ff477e34587c;Parent=287678af85e17379;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="93e082d8-4279-42cc-8f9a-6705647b5c6a" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="null" />
+              <option name="size" value="4" />
+              <option name="time" value="155" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066492005" />
+          <option name="id" value="99e43b8f-6e8e-4e05-951d-e8808702083a" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="bnVsbA==" />
+              <option name="bodyString" value="null" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:34:51 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="2b18b0ae-ab37-445a-8bd7-24308b9157ec" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3cbb-52aad9411ec57bb62fbf06ee;Parent=77c64045ced6fb3e;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99e43b8f-6e8e-4e05-951d-e8808702083a" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="null" />
+              <option name="size" value="4" />
+              <option name="time" value="148" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066592131" />
+          <option name="id" value="0f7041a4-fe18-4ca0-8ec8-62d16fac2a56" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJjb2RlIjoiMGZlZDcwMWUifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;code&quot;: &quot;0fed701e&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:36:32 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="19" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="f984e3ff-8030-488b-ac46-a6cde579110d" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3d1f-31bcb4fa78eb16ed7bd34f1a;Parent=073b176612a32dd5;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0f7041a4-fe18-4ca0-8ec8-62d16fac2a56" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;code&quot;:&quot;0fed701e&quot;}" />
+              <option name="size" value="19" />
+              <option name="time" value="474" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066614901" />
+          <option name="id" value="673e0865-9e05-49fe-9622-128a2d9ec672" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJjb2RlIjoiOGU0NmU3ODgifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;code&quot;: &quot;8e46e788&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:36:54 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="19" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="42a80b36-f8c9-46ef-aa98-7af5f0283f73" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3d36-18e86f1c237b9c70096a4dbf;Parent=0cab497882d7c31e;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="673e0865-9e05-49fe-9622-128a2d9ec672" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;code&quot;:&quot;8e46e788&quot;}" />
+              <option name="size" value="19" />
+              <option name="time" value="149" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066616901" />
+          <option name="id" value="a4677651-d329-46df-b359-8868d637aa23" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;https://www.youtube.com&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJjb2RlIjoiMjY5M2UyYjEifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;code&quot;: &quot;2693e2b1&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:36:56 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="19" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="41dbfe5b-f0e6-4c81-b665-bfe2c2bf74ae" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3d38-29cf36f2561cf58c5a2b933d;Parent=35d15c6653287bba;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="a4677651-d329-46df-b359-8868d637aa23" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;code&quot;:&quot;2693e2b1&quot;}" />
+              <option name="size" value="19" />
+              <option name="time" value="155" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066641250" />
+          <option name="id" value="69b66380-d270-484e-8b2d-84068176e314" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="string" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="502" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:37:21 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="d2795805-68c1-4f5d-a140-b2bb93df8457" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3d51-4b59db450c9954a9633fe2ca;Parent=6d55d40c7b7c5bb4;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="69b66380-d270-484e-8b2d-84068176e314" />
+              <option name="message" value="Bad Gateway" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="157" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066645010" />
+          <option name="id" value="de6910ef-83ce-4f0d-acf5-896411acc48a" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="&quot;string&quot;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="502" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:37:24 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="faa4bed5-65ee-4b63-953c-a909b0a70ac2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3d54-38e0cfe61e5f50614a57b41b;Parent=0c7d00587e0b5a17;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="de6910ef-83ce-4f0d-acf5-896411acc48a" />
+              <option name="message" value="Bad Gateway" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="161" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732066653703" />
+          <option name="id" value="dfc3960c-51bd-4c9c-95d5-c400c8b2a301" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;originalUrl&quot;: &quot;teste&quot;,&#10;  &quot;expirationTime&quot;: &quot;1728529200000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="7292e0ed-862e-4d14-8297-99ee30e6ac43" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://ysgffafhynntdyioqf2fqtsqpe0xuqfa.lambda-url.us-east-2.on.aws/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJjb2RlIjoiOGMzZmEyYzIifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;code&quot;: &quot;8c3fa2c2&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Wed, 20 Nov 2024 01:37:33 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="19" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="x-amzn-RequestId" />
+                    <option name="value" value="88b9a16d-90d1-447f-a7e6-4d68251e4e04" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-Amzn-Trace-Id" />
+                    <option name="value" value="Root=1-673d3d5d-18185133329b4f1a2b022b13;Parent=27c9cb17be08920d;Sampled=0;Lineage=1:2d0e1c68:0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="dfc3960c-51bd-4c9c-95d5-c400c8b2a301" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;code&quot;:&quot;8c3fa2c2&quot;}" />
+              <option name="size" value="19" />
+              <option name="time" value="149" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>
